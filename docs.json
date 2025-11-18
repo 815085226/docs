@@ -19,7 +19,8 @@
               "api-reference/introduction",
               "api-reference/Open-mj/action.mdx",
               "api-reference/Open-mj/imagine.mdx",
-              "api-reference/Open-mj/mjtasklist-by-condition.mdx"
+              "api-reference/Open-mj/mjtasklist-by-condition.mdx",
+              "api-reference/Open-mj/api.mdx"
             ]
           }
         ]
