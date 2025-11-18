@@ -17,10 +17,10 @@
             "group": "API documentation",
             "pages": [
               "api-reference/introduction",
-              "api-reference/Open-mj/action.mdx",
-              "api-reference/Open-mj/imagine.mdx",
-              "api-reference/Open-mj/mjtasklist-by-condition.mdx",
-              "api-reference/Open-mj/api.mdx"
+              "api-reference/Openmj/action.mdx",
+              "api-reference/Openmj/imagine.mdx",
+              "api-reference/Openmj/mjtasklist-by-condition.mdx",
+              "api-reference/Openmj/api.mdx"
             ]
           }
         ]
