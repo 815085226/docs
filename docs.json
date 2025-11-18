@@ -16,7 +16,10 @@
           {
             "group": "API documentation",
             "pages": [
-              "api-reference/introduction"
+              "api-reference/introduction",
+              "api-reference/Open-mj/action.mdx",
+              "api-reference/Open-mj/imagine.mdx",
+              "api-reference/Open-mj/mjtasklist-by-condition.mdx"
             ]
           }
         ]

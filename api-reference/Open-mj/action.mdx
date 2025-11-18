@@ -1,0 +1,51 @@
+## POST 执行Action动作-放大|变化|重新生成|
+
+POST /mj/submit/action
+
+> Body 请求参数
+
+```json
+{
+  "chooseSameChannel": true,
+  "customId": "MJ::JOB::variation::1::6900e93acaa7558c4f4427bc",
+  "taskId": "1761667386545025",
+  "notifyHook": "",
+  "state": "",
+  "apiKey": "{{apiKey}}",
+  "timestamp": "{{timestamp}}",
+  "sign": "{{sign}}"
+}
+```
+
+### 请求参数
+
+|名称|位置|类型|必选|说明|
+|---|---|---|---|---|
+|system|header|string| 是 |none|
+|Content-Type|header|string| 是 |none|
+|Authorization|header|string| 是 |none|
+|body|body|object| 否 |none|
+|» chooseSameChannel|body|boolean| 是 |none|
+|» customId|body|string| 是 |none|
+|» taskId|body|string| 是 |none|
+|» notifyHook|body|string| 是 |none|
+|» state|body|string| 是 |none|
+|» apiKey|body|string| 是 |none|
+|» timestamp|body|string| 是 |none|
+|» sign|body|string| 是 |none|
+
+> 返回示例
+
+> 200 Response
+
+```json
+{}
+```
+
+### 返回结果
+
+|状态码|状态码含义|说明|数据模型|
+|---|---|---|---|
+|200|[OK](https://tools.ietf.org/html/rfc7231#section-6.3.1)|none|Inline|
+
+### 返回数据结构
